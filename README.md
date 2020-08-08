@@ -21,9 +21,9 @@ This project was collaborated on by 9 team members. The project was built with H
 
 # _________________________________________________
 
-### 3. Name: 
-###    Slack username: 
-###    Contribution: 
+### 3. Name: Yinka Akinnukawe
+###    Slack username: tariy
+###    Contribution: Facebook home page footer
 
 # _________________________________________________
 
